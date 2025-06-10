@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/example-post/12345",
+    "title": "Clarification on GA5 Question 8",
+    "content": "You must use gpt-3.5-turbo for this question even if the AI proxy only supports gpt-4o-mini."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/example-post/54321",
+    "title": "Token Calculation Help",
+    "content": "Just use a tokenizer like the one shown in Prof. Anand's video and multiply by rate."
+  }
+]
